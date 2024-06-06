@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vb4soq4h8-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vb4soq4h8-go-gitops
